@@ -1,0 +1,24 @@
+{
+  "name": "tslint-config-lml",
+  "version": "1.0.0",
+  "description": "LML coding standards",
+  "main": "index.js",
+  "repository": "git@github.com:lastmilelink/tslint-config-lml.git",
+  "author": "James Cleveland jcleveland@lastmilelink.com",
+  "license": "MIT",
+  "private": false,
+  "homepage": "https://github.com/lastmilelink/tslint-config-lml/#readme",
+  "keywords": [
+    "lml",
+    "tslint",
+    "typescript"
+  ],
+  "dependencies": {
+    "prettier": "1.12.1",
+    "tslint-config-prettier": "1.12.0",
+    "tslint-plugin-prettier": "1.3.0"
+  },
+  "peerDependencies": {
+    "tslint": "^5.9.0"
+  }
+}
