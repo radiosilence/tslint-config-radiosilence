@@ -1,8 +1,8 @@
 {
   "name": "tslint-config-lml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "LML coding standards",
-  "main": "index.js",
+  "main": "tslint.js",
   "repository": "git@github.com:lastmilelink/tslint-config-lml.git",
   "author": "James Cleveland jcleveland@lastmilelink.com",
   "license": "MIT",
