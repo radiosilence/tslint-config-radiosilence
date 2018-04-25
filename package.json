@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-lml",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "LML coding standards",
   "main": "tslint.js",
   "repository": "git@github.com:lastmilelink/tslint-config-lml.git",
