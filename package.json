@@ -1,15 +1,14 @@
 {
-  "name": "tslint-config-lml",
-  "version": "1.0.2",
-  "description": "LML coding standards",
+  "name": "tslint-config-radiosilence",
+  "version": "1.0.0",
+  "description": "radiosilence coding standards",
   "main": "tslint.js",
-  "repository": "git@github.com:lastmilelink/tslint-config-lml.git",
-  "author": "James Cleveland jcleveland@lastmilelink.com",
+  "repository": "git@github.com:radiosilence/tslint-config-radiosilence.git",
+  "author": "James Cleveland jc@blit.cc",
   "license": "MIT",
   "private": false,
   "homepage": "https://github.com/lastmilelink/tslint-config-lml/#readme",
   "keywords": [
-    "lml",
     "tslint",
     "typescript"
   ],
