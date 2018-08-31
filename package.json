@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-radiosilence",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "radiosilence coding standards",
   "main": "tslint.js",
   "repository": "git@github.com:radiosilence/tslint-config-radiosilence.git",

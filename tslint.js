@@ -48,6 +48,7 @@ module.exports = {
         'no-shadowed-variable': false,
         'no-string-literal': true,
         'no-submodule-imports': false,
+        'no-unused-expression': false,
         'no-var-keyword': true,
         'no-var-requires': false,
         'object-literal-shorthand': true,
