@@ -10,7 +10,7 @@ Installation:
 -------------
 
 ```
-npm install tslint-config-radiosilence
+yarn add -D tslint-config-radiosilence
 ```
 
 And then in `tslint.json` do:
